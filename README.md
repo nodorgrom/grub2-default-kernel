@@ -1,6 +1,9 @@
 # Welcome to grub2 default kernel how to
 
 > Be ensure you made backups of these listed files
+- /boot/grub2/grub.cfg
+- /boot/grub2/grubenv
+- /etc/default/grub
 
 > List all available kernel versions
 ```
